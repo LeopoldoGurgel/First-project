@@ -1,0 +1,29 @@
+/* Add all your styles here */
+
+.body {
+  width: 100%;
+}
+
+.logo {
+  height: 50px;
+  width: 150px;
+  background-color: orange;
+  color: white;
+  font-size: 15px;
+  border-radius:5px;
+}
+
+.nav {
+  display: flex;
+  background-color: lightblue;
+  font-size: 12px;
+  justify-content: space-between;
+  border-radius: 5px;
+  border-bottom: 15px;
+}
+
+.banner {
+  width: 100%;
+  border-radius: 5px;
+  border: 20px 0px 20px 0px;
+}
